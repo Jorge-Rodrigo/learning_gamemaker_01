@@ -48,6 +48,7 @@
     {"name":"spr_player","order":1,"path":"sprites/spr_player/spr_player.yy",},
     {"name":"spr_shot","order":12,"path":"sprites/spr_shot/spr_shot.yy",},
     {"name":"spr_wall","order":9,"path":"sprites/spr_wall/spr_wall.yy",},
+    {"name":"spr_teste","order":13,"path":"sprites/spr_teste/spr_teste.yy",},
     {"name":"spt_power_up","order":11,"path":"sprites/spt_power_up/spt_power_up.yy",},
   ],
 }

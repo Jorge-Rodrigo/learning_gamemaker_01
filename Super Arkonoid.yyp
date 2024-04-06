@@ -70,6 +70,7 @@
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},},
     {"id":{"name":"spr_shot","path":"sprites/spr_shot/spr_shot.yy",},},
     {"id":{"name":"spr_wall","path":"sprites/spr_wall/spr_wall.yy",},},
+    {"id":{"name":"spr_teste","path":"sprites/spr_teste/spr_teste.yy",},},
     {"id":{"name":"spt_power_up","path":"sprites/spt_power_up/spt_power_up.yy",},},
   ],
   "resourceType":"GMProject",
