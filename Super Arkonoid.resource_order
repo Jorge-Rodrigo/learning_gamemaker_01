@@ -39,6 +39,7 @@
     {"name":"snd_shot","order":7,"path":"sounds/snd_shot/snd_shot.yy",},
     {"name":"spr_ball","order":3,"path":"sprites/spr_ball/spr_ball.yy",},
     {"name":"spr_block_blue","order":2,"path":"sprites/spr_block_blue/spr_block_blue.yy",},
+    {"name":"spr_block_gray_break","order":13,"path":"sprites/spr_block_gray_break/spr_block_gray_break.yy",},
     {"name":"spr_block_gray","order":5,"path":"sprites/spr_block_gray/spr_block_gray.yy",},
     {"name":"spr_block_green","order":6,"path":"sprites/spr_block_green/spr_block_green.yy",},
     {"name":"spr_block_purple","order":7,"path":"sprites/spr_block_purple/spr_block_purple.yy",},
@@ -48,6 +49,7 @@
     {"name":"spr_player","order":1,"path":"sprites/spr_player/spr_player.yy",},
     {"name":"spr_shot","order":12,"path":"sprites/spr_shot/spr_shot.yy",},
     {"name":"spr_wall","order":9,"path":"sprites/spr_wall/spr_wall.yy",},
+    {"name":"spr_power_up_heart","order":14,"path":"sprites/spr_power_up_heart/spr_power_up_heart.yy",},
     {"name":"spt_power_up","order":11,"path":"sprites/spt_power_up/spt_power_up.yy",},
   ],
 }
